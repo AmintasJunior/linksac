@@ -37,8 +37,8 @@ body * {
 }
 
 #container {
-  width: 360px;
-  margin: 56px auto 0px;
+  width: 370px;
+  margin: 20px auto 0px;
   padding: 0 24px;
 }
 
@@ -84,7 +84,7 @@ body * {
 
 #switch span {
   display: block;
-  width: 64px;
+  width: 65px;
   height: 24px;
   background: var(--surface-color);
   border: 1px solid var(--stroke-color);
