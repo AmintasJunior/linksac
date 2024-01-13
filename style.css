@@ -38,7 +38,7 @@ body * {
 
 #container {
   width: 370px;
-  margin: 20px auto 0px;
+  margin: 10px auto 0px;
   padding: 0 24px;
 }
 
@@ -59,7 +59,7 @@ body * {
 
 #switch {
   position: relative;
-  width: 64px;
+  width: 65px;
   margin: 3px auto;
 }
 
